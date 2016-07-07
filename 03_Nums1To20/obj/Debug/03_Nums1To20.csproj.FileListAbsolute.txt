@@ -1,0 +1,5 @@
+C:\Users\cvetana neikova\Documents\Visual Studio 2012\Projects\Pregovor\03_Nums1To20\bin\Debug\03_Nums1To20.exe.config
+C:\Users\cvetana neikova\Documents\Visual Studio 2012\Projects\Pregovor\03_Nums1To20\bin\Debug\03_Nums1To20.exe
+C:\Users\cvetana neikova\Documents\Visual Studio 2012\Projects\Pregovor\03_Nums1To20\bin\Debug\03_Nums1To20.pdb
+C:\Users\cvetana neikova\Documents\Visual Studio 2012\Projects\Pregovor\03_Nums1To20\obj\Debug\03_Nums1To20.exe
+C:\Users\cvetana neikova\Documents\Visual Studio 2012\Projects\Pregovor\03_Nums1To20\obj\Debug\03_Nums1To20.pdb
